@@ -1,0 +1,8 @@
+﻿namespace JWT_authenticationInASP.NETCore_8.Model
+{
+    public class Response
+    {
+        public string Status { get; set; }
+        public string Message { get; set; }
+    }
+}

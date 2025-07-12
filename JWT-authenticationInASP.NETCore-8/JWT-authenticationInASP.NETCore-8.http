@@ -1,0 +1,6 @@
+@JWT_authenticationInASP.NETCore_8_HostAddress = http://localhost:5089
+
+GET {{JWT_authenticationInASP.NETCore_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
